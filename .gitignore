@@ -1,0 +1,23 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+llmenv/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
